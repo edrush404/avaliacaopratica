@@ -126,3 +126,4 @@ Crie um arquivo chamado 'minha_arte_seunome.jpg(ou png)' Dentro da pasta Artes!
 
 
 ## Bem-Vindo ao CESAR School<img align="center" width="100" src="assets/School.png" alt="School Logo" />!!!
+# -avaliacaopratica
