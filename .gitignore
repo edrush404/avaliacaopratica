@@ -1,1 +1,3 @@
-*.db,*.sql,*.rar
+*.db
+*.sql
+*.rar
